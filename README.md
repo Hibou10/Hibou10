@@ -4,7 +4,7 @@
 
 ### 📊 Data Analytics · ⚙️ Data Engineering · 📈 Business Intelligence
 
-Ich entwickle datengetriebene Lösungen – von der Aufbereitung und Transformation  
+Ich entwickle datengetriebene Lösungen, von der Aufbereitung und Transformation  
 von Rohdaten bis hin zu interaktiven Dashboards und verständlichen Analysen.
 
 📍 Gießen, Deutschland  
@@ -109,64 +109,10 @@ fundierte Entscheidungen auf Basis zuverlässiger Informationen zu ermöglichen.
 
 ---
 
-## 🚀 Ausgewählte Projekte
-
-### 🛍️ Customer Shopping Analysis
-
-Ein vollständiges End-to-End-Datenprojekt zur Analyse des Kaufverhaltens von
-Kundinnen und Kunden.
-
-**Umgesetzt wurden:**
-
-- Datenbereinigung und Analyse mit Python und Pandas
-- SQL-Abfragen zur Beantwortung geschäftlicher Fragestellungen
-- Kundensegmentierung und Analyse des Kaufverhaltens
-- Entwicklung eines interaktiven Streamlit-Dashboards
-- Visualisierung von Umsatz, Produktkategorien und Kundengruppen
-- Erstellung eines Power-BI-Berichts
-
-**Technologien:**  
-`Python` `Pandas` `SQL` `PostgreSQL` `Power BI` `Streamlit`
-
-🔗 [Repository ansehen](https://github.com/Hibou10/customer-shopping-analysis)
-
----
-
-### 🌍 COVID Data Insights
-
-Ein datenbasiertes Dashboard zur verständlichen Darstellung und Analyse von
-COVID-19-Daten.
-
-**Projektinhalte:**
-
-- Aufbereitung und Transformation der Daten
-- Entwicklung datenbasierter Kennzahlen
-- Darstellung zeitlicher Entwicklungen
-- Interaktive Visualisierungen
-- Erstellung eines webbasierten Analytics-Dashboards
-
-**Technologien:**  
-`SQL` `Evidence.dev` `DuckDB` `Datenvisualisierung`
-
-🌐 [Live-Dashboard ansehen](https://covid-data-insights.netlify.app/)
-
----
-
 ### 💼 Persönliches Portfolio
 
 Meine persönliche Portfolio-Website mit einer Übersicht meiner Projekte,
 Technologien und fachlichen Schwerpunkte.
-
-**Projektinhalte:**
-
-- Responsives Webdesign
-- Darstellung meiner Data-Projekte
-- Übersicht meines Tech Stacks
-- Dark- und Light-Modus
-- Veröffentlichung über Netlify
-
-**Technologien:**  
-`HTML` `CSS` `JavaScript` `GitHub` `Netlify`
 
 🔗 [Repository ansehen](https://github.com/Hibou10/Portfolio)
 
