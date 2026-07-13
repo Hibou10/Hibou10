@@ -14,7 +14,7 @@ Dabei begleite ich den gesamten Datenprozess, von der Datenaufbereitung über SQ
 - Arbeiten an praxisnahen Datenprojekten
 
 ---
-### 🧰 Meine Werkzeugkiste
+### 🧰 Tech Stack
 
 **Data Engineering**
 
