@@ -46,15 +46,3 @@ Dabei begleite ich den gesamten Datenprozess – von der Datenaufbereitung über
 🔗 [Repository ansehen](https://github.com/Hibou10/Portfolio)
 
 ---
-
-### 🔍 So arbeite ich mit Daten
-
-```text
-Rohdaten
-   ↓
-Bereinigung & Transformation
-   ↓
-Analyse (SQL / Python)
-   ↓
-Verständliche Erkenntnisse
-```
