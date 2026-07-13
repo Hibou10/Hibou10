@@ -3,7 +3,7 @@
 ### 🧑‍💻 Über mich
 
 Ich beschäftige mich mit Data Analytics, Data Engineering und Business Intelligence.  
-Dabei begleite ich den gesamten Datenprozess – von der Datenaufbereitung über SQL-Analysen und ETL-/ELT-Prozesse bis hin zur Entwicklung interaktiver Dashboards.
+Dabei begleite ich den gesamten Datenprozess, von der Datenaufbereitung über SQL-Analysen und ETL-/ELT-Prozesse bis hin zur Entwicklung interaktiver Dashboards.
 
 ---
 
