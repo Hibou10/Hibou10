@@ -1,4 +1,4 @@
-### Hi 👋, ich bin Hicham
+
 
 ### 🧑‍💻 Über mich
 
