@@ -61,6 +61,5 @@ Dabei begleite ich den gesamten Datenprozess, von der Datenaufbereitung über SQ
 ### 🌐 Portfolio
 
 🌐 [Portfolio ansehen](https://hicham-boulaayad.netlify.app/)  
-🔗 [Repository ansehen](https://github.com/Hibou10/Portfolio)
 
 ---
